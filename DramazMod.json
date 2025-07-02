@@ -63,6 +63,13 @@
     "allowOffline": true
   },
   {
+    "id": "f4fc83f3186f2fc7",
+    "username": "967777007022",
+    "password": "dramazmod",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
